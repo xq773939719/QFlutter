@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/a1e1bbf7d230ee1a1d6ca61a76ebd240/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/be8c21951fff51436eb48f59d23f28c0/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4d463b5635032148f31306b142537e8f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/335dd2af3eba666c411f33e7d387fbd6/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/2d2b27066540d0ae64fa7e1697f522cf/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4398b081242c8393c0e467333ce933eb/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/32b4b78cb19b819179c6ae204d28b72c/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4c2c3afadc3ad1330c1d27718b85e96a/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/45e8e6acdf1bc985f16d13d85160d7e1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/7b2e261c2b806af97c323d51a23c3098/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/d8e14ad4beb87cfbfd6f4fbdf1aa69db/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/e79d76ed3b0a1360208db7de3b1240f6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4fa95e8700e2a6e3643ce913079e3cab/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:8:5-46:19
+MERGED from [androidx.core:core:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4398b081242c8393c0e467333ce933eb/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4398b081242c8393c0e467333ce933eb/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/e79d76ed3b0a1360208db7de3b1240f6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/e79d76ed3b0a1360208db7de3b1240f6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4398b081242c8393c0e467333ce933eb/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:10:9-32
+	android:icon
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:9:9-57
+activity#com.q.q_music.MainActivity
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:12:9-40:20
+	android:launchMode
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:24:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:34:15-61
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:33:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml:44:13-44
+uses-sdk
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/a1e1bbf7d230ee1a1d6ca61a76ebd240/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/a1e1bbf7d230ee1a1d6ca61a76ebd240/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/be8c21951fff51436eb48f59d23f28c0/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/be8c21951fff51436eb48f59d23f28c0/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4d463b5635032148f31306b142537e8f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4d463b5635032148f31306b142537e8f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/335dd2af3eba666c411f33e7d387fbd6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/335dd2af3eba666c411f33e7d387fbd6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/2d2b27066540d0ae64fa7e1697f522cf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/2d2b27066540d0ae64fa7e1697f522cf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4398b081242c8393c0e467333ce933eb/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4398b081242c8393c0e467333ce933eb/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/32b4b78cb19b819179c6ae204d28b72c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/32b4b78cb19b819179c6ae204d28b72c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4c2c3afadc3ad1330c1d27718b85e96a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4c2c3afadc3ad1330c1d27718b85e96a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/45e8e6acdf1bc985f16d13d85160d7e1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/45e8e6acdf1bc985f16d13d85160d7e1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/7b2e261c2b806af97c323d51a23c3098/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/7b2e261c2b806af97c323d51a23c3098/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/d8e14ad4beb87cfbfd6f4fbdf1aa69db/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/d8e14ad4beb87cfbfd6f4fbdf1aa69db/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/e79d76ed3b0a1360208db7de3b1240f6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/e79d76ed3b0a1360208db7de3b1240f6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4fa95e8700e2a6e3643ce913079e3cab/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xq/.gradle/caches/transforms-2/files-2.1/4fa95e8700e2a6e3643ce913079e3cab/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/xq/IdeaProjects/q_music/android/app/src/debug/AndroidManifest.xml:6:22-64
